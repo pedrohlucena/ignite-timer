@@ -1,4 +1,4 @@
-import { CyclesContext } from '../..'
+import { CyclesContext } from '../../../../contexts/CyclesContext'
 import { useContext } from 'react'
 
 import * as S from './styles'
